@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on IAC (terraform / ansible) 
-- 🤔 I’m looking interrested in generative IA
+- 🤔 I’m interrested in generative IA
 - 😄 Pronouns: Michel
 - ⚡ Fun fact: Handball fan
 
